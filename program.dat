@@ -1,0 +1,4 @@
+# '#' is comment. List the program here you want to batch run separated by new line.
+C:\Program Files (x86)\Google\Chrome\Application\chrome www.google.com
+
+calc
