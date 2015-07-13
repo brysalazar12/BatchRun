@@ -1,7 +1,7 @@
 # BatchRun
 Execute multiple program define in config
 
-Usage
+Usage  
 **run:** java -jar BatchRun.jar  
 it will create config file program.dat to your current directory.
 
