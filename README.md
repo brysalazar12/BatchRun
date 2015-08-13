@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/brysalazar12/BatchRun.svg)](https://travis-ci.org/brysalazar12/BatchRun)
+
 # BatchRun
 Execute multiple program define in config
 
