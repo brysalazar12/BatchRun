@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/brysalazar12/BatchRun.svg)](https://travis-ci.org/brysalazar12/BatchRun)
 
 # BatchRun
-Execute multiple program define in config
+Execute multiple program defined in config
 
 **Usage**  
 **run:** java -jar BatchRun.jar  
